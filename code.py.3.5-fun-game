@@ -1,0 +1,12 @@
+x = input ("will you answer the questions to make a story yes or no?")
+if x != "yes":
+    quit()
+wether = input("what type of whether?")
+season = input("what season is it?")
+snow = input ("whats better snow rain mud or leavs?")
+reindeer = input ("animal? ")
+santa = input ("name?")
+elf = input("a person?")
+hot_coco = input("food or drink")
+print('it is a '+wether+" "+season+' day.i went outside to play in the '+snow+ ' all of a sunned a '+reindeer+' comes out of the woods.i ask myself out loud could this be '+ santa +"s "+ reindeer +"? then a "+ elf +' pops out of the '+reindeer+ "s back and offers me some "+ hot_coco)
+#it was supposed to be a christmas game
